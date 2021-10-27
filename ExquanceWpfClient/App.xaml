@@ -1,0 +1,12 @@
+﻿<Application x:Class="ExquanceWpfClient.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:viewModel="clr-namespace:ExquanceWpfClient.ViewModel">
+    <Application.Resources>
+        <ResourceDictionary>
+            <viewModel:ViewModelLocator
+                x:Key="Loc" />
+            <Style TargetType="Window"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

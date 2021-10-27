@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExquanceWpfClient", "ExquanceWpfClient\ExquanceWpfClient.csproj", "{FEAA610B-8473-44CB-9247-7650983443CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExquanceApi", "ExquanceApi\ExquanceApi.csproj", "{5B90A234-B8F7-457A-8E6F-AD5F9BBF8A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExquanceApiTest", "ExquanceApiTest\ExquanceApiTest.csproj", "{01FEF3A9-E46F-4224-9911-CAD9E7BF887E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckInputValueConsole", "CheckInputValueConsole\CheckInputValueConsole.csproj", "{CAD46BFF-73D5-4F48-958D-244C67891A4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAA610B-8473-44CB-9247-7650983443CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAA610B-8473-44CB-9247-7650983443CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAA610B-8473-44CB-9247-7650983443CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAA610B-8473-44CB-9247-7650983443CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B90A234-B8F7-457A-8E6F-AD5F9BBF8A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B90A234-B8F7-457A-8E6F-AD5F9BBF8A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B90A234-B8F7-457A-8E6F-AD5F9BBF8A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B90A234-B8F7-457A-8E6F-AD5F9BBF8A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FEF3A9-E46F-4224-9911-CAD9E7BF887E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FEF3A9-E46F-4224-9911-CAD9E7BF887E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FEF3A9-E46F-4224-9911-CAD9E7BF887E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FEF3A9-E46F-4224-9911-CAD9E7BF887E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD46BFF-73D5-4F48-958D-244C67891A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD46BFF-73D5-4F48-958D-244C67891A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD46BFF-73D5-4F48-958D-244C67891A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD46BFF-73D5-4F48-958D-244C67891A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
